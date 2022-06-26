@@ -1,11 +1,11 @@
 {
     "items": [{
-            "url": "LINK URL BANNER",
-            "alt": "4 Pilihan Permainan Menarik"
+            "url": "https://senior-liga.com/assets/images/banner/seniorliga-bonus-new-member.png",
+            "alt": "Bonus New Member Sportbook 50%"
         },
         {
-            "url": "URL IMAGE BANNER",
-            "alt": "Live Casino"
+            "url": "https://senior-liga.com/assets/images/banner/seniorliga-garansi-pasti-bayar.png",
+            "alt": "Garansi Kemenangan Pasti Di Bayar"
         }
     ]
 }
